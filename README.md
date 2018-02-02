@@ -6,15 +6,15 @@ A: DEFITIONS:
 -------------
 
 
-DP2P CF refers to Decentralised Peer to Peer Crowd Funding.
+DP2P CF refers to a Decentralised Peer to Peer Crowd Funding.
 
 This happens when two or more individuals known as Peers put their funds together to fund each other.
 
 Why Peer to Peer? This is caused by the fact that individuals eliminate a master servant, centralized way where 
 
-one person/company controls Peers and is paid by Peers for borrowing Peers funds for their projects.
+one person/company controls Peers and is paid by Peers for borrowing Peer funds for their projects.
 
-Virtual here refers to the fact that Peers across borders or continents meet and interact via an online platform 
+Virtual refers to the fact that Peers across borders or continents meet and interact via an online platform 
 
 and use Internet and Communications Technologies to exchange messages and trade.
 
@@ -75,19 +75,19 @@ E:LEGALITY/LEGIT/Misconceptions:
 
 In spite the fact that it is decentralized and owner less, freedom of expression, association and the freedom to 
 
-willingly, knowingly and freely donating and being donated to by legal aged individuals, is well protected by democracy.
+willingly, knowingly and freely donating and being donated to by legal aged individuals, it is well protected by democracy.
 
-People often mistakenly take all decentralized financial schemes as illegal Ponzi/Pyramid fraudulent schemes. The entire Crypto World
+People often mistakenly take all decentralized financial schemes as illegal Ponzi/Pyramid fraudulent schemes. The entire Crypto 
 
-and ecosystem reverses centralizations, promotes anonymous operations and transactions and challenges traditional 
+World and ecosystem reverses centralizations, promotes anonymous operations and transactions and challenges traditional 
 
 financial systems and standards but it is very popular and is growing fast because of the benefit it gives to the society:
 
 Fast, inexpensive and convenient financial operations. Well big companies and some governments have joined the Bitcoin world.
 
-Virtual Decentralised P2P is a  new crowd funding scheme that is based on free donor donation to realize your fellow Peer's dream
+Virtual Decentralised P2P is a  new crowd funding scheme that is based on free donor donation to realize your fellow Peer's 
 
-and is becoming a popular easy financing scheme amidst internet scams, fraud. At some point in time, the law will find
+dream and is becoming a popular easy financing scheme amidst internet scams, fraud. At some point in time, the law will find
 
 a way of dealing with it the same way it will find a way of dealing with Bitcoin or Gambling.
 
@@ -100,7 +100,7 @@ something else of value. Scams traditionally resided in confidence tricks, where
 themselves as someone with skill or authority, i.e. a doctor ...
 "[http://www.businessdictionary.com/definition/scam.html]
 
-Virtual DP2P Crowd Funding communities need the following to be out of scam parameters. 
+Virtual DP2P Crowd Funding communities need the following to be out of scam parameters: 
 
 - eliminate dishonest in anonymous operations. When an adult gambles his/her salary away in a Casino it is not a 
 
@@ -123,9 +123,9 @@ G:BENEFICIARIES AND LOSERS:
 
 Any Peer can be a beneficiary and any Peer can be a loser. The higher the risk one takes the higher the return when it comes. 
 
-It is volatile, subscriptions can grow and drop quickly 
+It is volatile, subscriptions can grow and drop quickly because it based on speculation. Earnings via referral links and 
 
-because it based on speculation. Earnings via referral links and Consulting Services can offset loses via donations.
+Consulting Services can offset loses via donations.
 
 This is a less risk financial operations compared to national lotto where millions of money is won by 1 person. In a Virtual
 
@@ -148,28 +148,28 @@ also have power and influence to change operations.
 I: FEATURES:
 ------------
 
-i) 		Platform - website for virtual operations.
+i) 	Platform - website for virtual operations.
 
 ii) 	Participants - Peers to donate and be donated to.
 
 iii)	Services:
 
-	a)	Fund Keeping[FK] - This is a service from Peers to keeps funds for the community. Any confirmed Peer qualifies. Confirmed 
-	
-		means a Participant has completed a verifiable service to build a community e.g. donated, developed website, marketed.
-	
-	b)	Consulting Services [CS]- traditionally members were tasked with MLM recruitment but this has evolved to Consulting Services where 
+a)	Fund Keeping[FK] - This is a service from Peers to keeps funds for the community. Any confirmed Peer qualifies.
 
-		Down linkers[DL] are assisted as per need until they are independent.
+	Confirmed means a Participant has completed a verifiable service to build a community e.g. donated, developed website, 
 	
-	c)	System Services[SS] - without a web applications being built and maintained the Decentralised P2P ceases to 
+	marketed.
 	
-		be virtual.
+b)	Consulting Services [CS]- traditionally members were tasked with MLM recruitment but this has evolved to Consulting
+
+	Services where Down linkers[DL] are assisted as per need until they are independent.
 	
-	d)	Mediatory Services[MS] - Social media groups are managed by Peers whose effort should be acknowledged as [MS].
+c)	System Services[SS] - without a web applications being built and maintained the Decentralised P2P ceases to be virtual.
 	
-	e)	Financial Services[FK] - These are much needed funds from Peers donated by Financial Service Givers to fund Peer 
+d)	Mediatory Services[MS] - Social media groups are managed by Peers whose effort should be acknowledged as [MS].
 	
-		dreams. This also includes escrow[ES] services where Fund Keepers are not available and not reliable.
+e)	Financial Services[FK] - These are much needed funds from Peers donated by Financial Service Givers to fund Peer
+
+	dreams. This also includes escrow[ES] services where Fund Keepers are not available and not reliable.
 	
-	f)	Other Service Providers [OSP]- These could be legal, spiritual, educational service providers.
+f)	Other Service Providers [OSP]- These could be legal, spiritual, educational service providers.
